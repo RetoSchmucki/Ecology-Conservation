@@ -101,7 +101,7 @@ From your console again ```Git Bash.exe```
 - give it a name that is relevant to your machine (every key is specific to a computer)
 - paste the id_rsa.pub key that is in your clipboard. This should result in a sequence of alpha-numerics ended with your email.
 
-######Note: If you encounter problems, have a look at the [GitHub help page](https://help.github.com/articles/connecting-to-github-with-ssh/)
+##### Note: If you encounter problems, have a look at the [GitHub help page](https://help.github.com/articles/connecting-to-github-with-ssh/)
 
 
 #### 3. Interact with Git and GitHub
